@@ -1,7 +1,7 @@
 {
+  "parser_version": "10365cc70ab2b2de85ea7ab35cf6b7636c36ce8b",
   "generate": true,
   "lang": "unison",
   "url": "https://github.com/kylegoetz/tree-sitter-unison",
-  "semver": false,
-  "parser_version": "10365cc70ab2b2de85ea7ab35cf6b7636c36ce8b"
+  "semver": false
 }
